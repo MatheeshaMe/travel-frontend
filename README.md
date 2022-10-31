@@ -73,12 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Development
 
-# components tree__
+## components tree
 
-__Landing page__
+### Landing page
     navbar
-      <Logo/>
-      <Button/>
+     - [ ] Button
+     - [ ] Logo
 
     hero section
        
