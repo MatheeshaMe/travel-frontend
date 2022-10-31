@@ -78,7 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ___Landing page__
     _navbar_
 
-   -[] hero section
+    hero section
     most starred section
     most featured section
     browse by type section
