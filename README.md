@@ -1,18 +1,9 @@
 
 ### Todo
 
-    navbar
-     - [ ] Button
-     - [ ] Logo
-
-    hero section
-       
-    most starred section
-    most featured section
-    browse by type section
-    hotels we love section
-    cta 
-    footer
+- [ ] Work on the website ~3d #feat @john 2020-03-20  
+- [ ] Fix the homepage ~1d #bug @jane  
+  - [ ] Sub-task or description  
 
 #### List page
 
