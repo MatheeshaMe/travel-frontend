@@ -75,10 +75,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # components tree__
 
-___Landing page__
-    _navbar_
+__Landing page__
+    navbar
+      <Logo/>
+      <Button/>
 
     hero section
+       
     most starred section
     most featured section
     browse by type section
@@ -87,13 +90,13 @@ ___Landing page__
     footer
 
 
-___List page__
+__List page__
 
     navbar
     search section
     filtered cards
 
-___HotelDetails page__
+__HotelDetails page__
 
     name
     subtitle
@@ -102,7 +105,7 @@ ___HotelDetails page__
     paymentcard
     footer
 
-___Room details page__
+__Room details page__
 
     header(name)
     imageGrid-4
