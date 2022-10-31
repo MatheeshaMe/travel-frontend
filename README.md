@@ -75,7 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## components tree
 
-### Landing page
+### Todo
+
     navbar
      - [ ] Button
      - [ ] Logo
